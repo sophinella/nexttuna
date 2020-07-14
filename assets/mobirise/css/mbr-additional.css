@@ -2134,7 +2134,7 @@ section.lazy-placeholder:after {
 .cid-s4lnRWrCd0 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #004150;
+  background-color: #0085a2;
 }
 @media (max-width: 767px) {
   .cid-s4lnRWrCd0 .content {
@@ -2200,7 +2200,10 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s4lnRWrCd0 P {
-  color: #0085a2;
+  color: #ffffff;
+}
+.cid-s4lnRWrCd0 .copyright > p {
+  color: #ffffff;
 }
 .cid-s4lqACQ4Qr .navbar {
   padding: .5rem 0;
