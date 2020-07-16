@@ -721,40 +721,36 @@ section.lazy-placeholder:after {
 .cid-s4lwBNSf8F H2 {
   color: #0085a2;
 }
-.cid-s4TOntgGrX {
-  padding-top: 45px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/punkte-trkis-auf-trkis-1-2000x1026.jpeg");
+.cid-s4TZzQ1OFR {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/hintergrund-1671x381.png");
 }
-.cid-s4TOntgGrX .mbr-section-subtitle {
+.cid-s4TZzQ1OFR h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s4TZzQ1OFR p {
   color: #767676;
-  font-weight: 300;
+  text-align: left;
 }
-.cid-s4TOntgGrX .mbr-content-text {
-  color: #ffffff;
+.cid-s4TZzQ1OFR .card-box {
+  padding-top: 2rem;
 }
-.cid-s4TOntgGrX .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
+.cid-s4TZzQ1OFR .card-wrapper {
+  height: 100%;
 }
-.cid-s4TOntgGrX .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
+.cid-s4TZzQ1OFR .card-title DIV {
+  text-align: center;
 }
-@media (max-width: 767px) {
-  .cid-s4TOntgGrX .card:not(.last-child) {
-    padding-bottom: 1.5rem;
-  }
+.cid-s4TZzQ1OFR .card-title {
+  text-align: center;
+  color: #004150;
 }
-.cid-s4TOntgGrX .img-text {
-  color: #ffffff;
+.cid-s4TZzQ1OFR P {
+  text-align: center;
+  color: #004150;
 }
 .cid-s4lig5meq8 {
   padding-top: 30px;
